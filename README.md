@@ -1,6 +1,9 @@
+<img width="1024" height="559" alt="AetherVoice for Fraud Detection" src="https://github.com/user-attachments/assets/205e399d-f79c-472e-8689-bc8b4e674928" />
+
 🎙️ AetherVoice: The Voice of the Agentic Economy
 The AI That Talks to Scammers — and Exposes Them in Real Time.
-
+One Pager:https://docs.google.com/document/d/1OU_HwHUwUjIwgTYON9mIDvEkbJjYu1c4yNc4zUnMvAo/edit?usp=sharing
+Demo Video: https://www.youtube.com/watch?v=vr-wfbLC5tE
 📖 Overview
 AetherVoice is an autonomous AI voice agent designed to eliminate the $100B in annual friction caused by fraudulent actors in global trade and DeFi. Unlike passive scanners, AetherVoice actively engages with suspicious entities, using high-reasoning dialogue to probe for inconsistencies, analyze behavioral red flags, and deliver an immutable on-chain trust verdict.
 
