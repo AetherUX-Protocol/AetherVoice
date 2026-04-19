@@ -38,15 +38,11 @@ Autonomous Settlement: The agent earns fees in USDC/BNB and pays for its own com
 ├── /ui               # React Trust Dashboard & Interrogation Orb
 └── README.md         # You are here
 🚦 Getting Started
-1. Prerequisites
-Node.js (>= v18.18)
-
-Python 3.x
-
-Vapi & ElevenLabs API Keys
-
-2. Installation
-3. git clone https://github.com/AetherUX-protocol/aethervoice.git
+1. Prerequisites Node.js (>= v18.18) Python 3.x API Keys: Vapi, ElevenLabs, and your chosen LLM (Gemini/GPT-4o) 2. Environment Setup To protect your sensitive data, AetherVoice uses environment variables. Follow these steps to configure your local environment:Locate the .env.example file in the root directory.Create a new file named .env by copying the template:
+ cp .env.example .env
+Open the .env file and fill in your unique API keys and configuration details.⚠️ Security Note: Never commit your .env file to version control. It is already included in the .gitignore to prevent accidental exposure of your private keys
+3. Installation
+4. git clone https://github.com/AetherUX-protocol/aethervoice.git
 cd aethervoice
 npm install
 pip install -r requirements.txt
