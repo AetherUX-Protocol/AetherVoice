@@ -43,7 +43,7 @@ Python 3.x
 Vapi & ElevenLabs API Keys
 
 2. Installation
-3. git clone https://github.com/your-repo/aethervoice.git
+3. git clone https://github.com/AetherUX-protocol/aethervoice.git
 cd aethervoice
 npm install
 pip install -r requirements.txt
